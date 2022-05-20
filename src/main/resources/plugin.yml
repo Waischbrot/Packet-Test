@@ -1,0 +1,6 @@
+name: Packettests
+version: 1.0
+main: de.rubymc.packettests.Main
+api-version: 1.17
+depend: [ ProtocolLib ]
+authors: [ Waischbrot ]
